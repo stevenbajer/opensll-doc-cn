@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "openssl-doc-cn"
+		}
+	],
+	"settings": {
+		"github.remoteName": "https://github.com/stevenbajer/opensll-doc-cn.git"
+	}
+}
