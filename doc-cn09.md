@@ -1,4 +1,5 @@
 openssl简介－指令dgst
+
 用法： 
 
 openssl dgst [md5|md2|sha1|sha|mdc2|ripemd160] [-c] [-d] [file...] 

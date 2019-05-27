@@ -1,4 +1,5 @@
 openssl简介－入门
+
 实现了SSL的软件不多，但都蛮优秀的。首先，netscape自己提出来的概念，当然自己会实现一套了。netscape的技术蛮优秀的，不过我没用过他们的ssl-toolkit.甚至连名字都没搞清楚。 
     1995年，eric.young开始开发openssl, 那时候叫ssleay.一直到现在，openssl还在不停的修改和新版本的发行之中。openssl真够大的，我真佩服eric的水平和兴趣。这些open/free的斗士的精神是我写这个系列的主要动力，虽然写的挺烦的。
 ps: eric现在去了RSA公司做，做了一个叫SSL-C的toolkit, 其实和openssl差不多。估计应该比openssl稳定，区别是这个是要银子的，而且几乎所有低层的函数都不提供直接调用了。那多没意思。 

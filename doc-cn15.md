@@ -1,5 +1,7 @@
 openssl简介－指令pkcs7
+
   用法: 
+  
     openssl pkcs7 [-inform PEM|DER] [-outform PEM|DER] [-in filename] 
 
 [-out filename] [-print_certs] [-text] [-noout] 

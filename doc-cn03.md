@@ -1,9 +1,5 @@
 标题:openssl简介--协议
 
-发信站:BBS水木清华站(FriNov1020:30:492000)
-
-引用请指明原作/译者fordesign@21cn.com
-
 
 SSL(SecureSocketLayer)是netscape公司提出的主要用于web的安全通信标准,分为2.0版和3.0版.TLS(TransportLayerSecurity)是IETF的TLS工作组在SSL3.0基础之上提出的安全通信标准,目前版本是1.0,即RFC2246.SSL/TLS提供的安全机制可以保证应用层数据在互联网络传输不被监听,伪造和窜改.
 
